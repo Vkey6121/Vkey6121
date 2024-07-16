@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vigneshwaran V</h1>
-<h3 align="center">A passionate about Research Engineer and software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkey6121&label=Profile%20views&color=0e75b6&style=flat" alt="vkey6121" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m collobarated on [NFT Market Place](https://github.com/Vkey6121)
 
-- 📫 How to reach me **vkeytech12@gmail.com**
+- 📫 Let's connect **vkeytech12@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WfrrmkH9jNSz7AcbcuUnpg6r2BV7M2FQ/view?usp=sharing](https://drive.google.com/file/d/1WfrrmkH9jNSz7AcbcuUnpg6r2BV7M2FQ/view?usp=sharing)
 
