@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Foodbae Delivery App](https://github.com/Vkey6121)
 
-- 🌱 I’m currently learning **Data Analytics, opencv**
+- 🌱 I’m currently learning **DevOps, Cloud Services**
 
 - 👯 I'm collaborated on [Angels and Demon Game](https://github.com/Vkey6121)
 
